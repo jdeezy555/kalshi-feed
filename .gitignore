@@ -1,0 +1,3 @@
+node_modules/
+*.log
+data/archive_git_history.*
